@@ -47,3 +47,8 @@ th,
 td {
   padding: 8px;
 }
+nav#links a {
+  font-size: 120%;
+  text-decoration: none;
+  color: black;
+}
