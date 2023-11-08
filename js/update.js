@@ -9,7 +9,7 @@ ul.addEventListener("click", function(event) {
           window.location.href = "OreoBrownie.html";
         } else if (selectedLink === "* Coffee Frosting") {
           window.location.href = "CoffeeFrosting.html";
-        } else if (selectedLink === "* ChocolateMousse") {
+        } else if (selectedLink === "* Chocolate Mousse") {
           window.location.href = "ChocolateMousse.html";
         }
         event.preventDefault(); // Prevent the default link behavior (navigating to the URL)
