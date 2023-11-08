@@ -25,3 +25,25 @@ h2 {
 ul {
     font-size: 120%;
 }
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 5px solid rgb(255, 255, 255);
+}
+
+thead th:nth-child(1) {
+  width: 120%;
+}
+
+thead th:nth-child(2) {
+  width: 200%;
+}
+td {
+  text-align: center;
+}
+
+th,
+td {
+  padding: 8px;
+}
